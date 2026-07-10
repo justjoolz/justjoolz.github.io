@@ -42,14 +42,14 @@
     "id": "metagranulations",
     "title": "Metagranulations",
     "artist": "j00lz",
-    "year": "c. 2020",
+    "year": "2020",
     "type": "Production",
     "group": "productions",
-    "note": "Made during the Đà Nẵng period. The public source and final credits are still being recovered.",
-    "embed": "",
-    "link": "",
-    "image": "",
-    "tags": ["experimental", "Đà Nẵng", "archive note"]
+    "note": "Made during the Đà Nẵng period.",
+    "embed": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fhedst8%2Fmetagranulations%2F",
+    "link": "https://www.mixcloud.com/hedst8/metagranulations/",
+    "image": "https://thumbnailer.mixcloud.com/unsafe/1024x1024/extaudio/6/0/a/6/b810-00d2-40b7-b3b6-c7dc590974e8",
+    "tags": ["experimental", "Đà Nẵng", "granular"]
   },
   {
     "id": "freedom-mix",
@@ -58,7 +58,7 @@
     "year": "2014",
     "type": "DJ mix",
     "group": "mixes",
-    "note": "Made during a return to England for Nik Bryan’s wedding. A surviving marker from a long, quiet musical stretch.",
+    "note": "Made just before returning to England for Nik Bryan’s wedding. A surviving marker from a long, quiet musical stretch.",
     "embed": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FHedstate%2Ffreedom-mix%2F",
     "link": "https://www.mixcloud.com/Hedstate/freedom-mix/",
     "image": "",
@@ -66,15 +66,15 @@
   },
   {
     "id": "watto",
-    "title": "Watto",
-    "artist": "HEDST8",
-    "year": "Date to verify",
-    "type": "Track",
+    "title": "Watto (Hedstate Remix)",
+    "artist": "Rejectbeats · remixed by Hedstate",
+    "year": "2013",
+    "type": "Remix",
     "group": "hedst8",
-    "note": "A HEDST8 release recovered through its surviving listing. Full date and credits are awaiting archive verification.",
-    "embed": "",
-    "link": "https://www.beatport.com/track/watto/4296064",
+    "note": "A remix of Rejectbeats’ ‘Watto’, released on Big Square Records in June 2013. Streaming on all major platforms.",
+    "embed": "https://embed.music.apple.com/us/album/watto-hedstate-remix/809286297?i=809286389",
+    "link": "https://music.apple.com/us/album/watto-hedstate-remix/809286297?i=809286389",
     "image": "",
-    "tags": ["house", "HEDST8", "recovered"]
+    "tags": ["breaks", "Hedstate", "2013"]
   }
 ]
