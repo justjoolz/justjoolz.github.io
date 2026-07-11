@@ -1,5 +1,18 @@
 [
   {
+    "id": "stylin-re-rub",
+    "title": "Stylin' ft Cutty Ranks (Re-Rub a Dub Mix)",
+    "artist": "j00lz",
+    "year": "2026",
+    "type": "Production",
+    "group": "productions",
+    "note": "Re-Rub a Dub Mix freshly dropped.",
+    "embed": "https://www.youtube-nocookie.com/embed/B4UP24ldvFs?autoplay=1",
+    "link": "https://www.youtube.com/watch?v=B4UP24ldvFs",
+    "image": "https://i.ytimg.com/vi/B4UP24ldvFs/maxresdefault.jpg",
+    "tags": ["dub", "remix", "video"]
+  },
+  {
     "id": "crazy-tweak",
     "title": "Crazy Tweak",
     "artist": "HEDST8",
@@ -58,7 +71,7 @@
     "year": "2014",
     "type": "DJ mix",
     "group": "mixes",
-    "note": "Made just before returning to England for Nik Bryan’s wedding. A surviving marker from a long, quiet musical stretch.",
+    "note": "Made just before returning to England for Nik Di Benedetto’s wedding. A surviving marker from a long, quiet musical stretch.",
     "embed": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fhedst8%2Ffreedom-mix%2F",
     "link": "https://www.mixcloud.com/hedst8/freedom-mix/",
     "image": "",
